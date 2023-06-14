@@ -8,7 +8,10 @@ All the hard work was done by Andy Sloane (coding) and Jogeir Liljedahl (the swe
 
 Gabubu: "I asked them for permission and they agreed, so I can upload them here as a backup!"
 
+Official source can be found here: https://donut.eu.org/downloads/wiidonut/
+
 `The background song is Addiction by Jogeir Liljedahl.`
+
 
 # Contact the creators
 - jornmann: jornmann@duck.com
