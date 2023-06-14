@@ -1,6 +1,6 @@
 ![Wii Donut](https://github.com/GabubuAvailable/Wii-Donut/assets/88589756/db71db39-a556-43b0-bd5c-83df42d72420)
 ### made by emilydaemon (formerly known as jornmann)
---
+------
 
 # Description
 jornmann: "Wii Donut is just a spinning donut for your Wii!
